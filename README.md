@@ -1,5 +1,5 @@
 Simple Todo CRUD API with RestFramework 
-1. Technologies Used : Python , Django , VSCode , POstman , Mysql(You have to create database name db)
+1. Technologies Used : Python , Django , VSCode , POstman , Mysql(You have to create database name testdb)
 2. In a RESTful API, endpoints (URLs) define the structure of the API and how end users access data from our application using the HTTP methods - GET, POST, PUT, DELETE. Endpoints should be logically organized around collections and elements, both of which are resources.
 3. 4. First, we have to start up Django's development server : python manage.py runserver
    5. Create user for CRUD and Tokens with POST method : http://127.0.0.1:8000/api/v1/auth/register/
